@@ -1,0 +1,31 @@
+body{
+    background-image: url(img/bg.jpg);
+    background-position: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family :'Courier New', Courier, monospace;
+    margin: 0;
+}
+.timer-countainer{
+    display: flex;
+}
+h1{
+    font-size: 100px;
+    margin-top: -80px;
+}
+.big-text{
+    font-size: 100px;
+    margin: 0 50px;
+    font-weight: bold;
+}
+.text-c{
+    text-align: center;
+}
+.text-c span{
+    font-size: 20px;
+
+}
